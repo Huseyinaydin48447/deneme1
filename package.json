@@ -1,0 +1,27 @@
+{
+  "name": "huseyinnn-aydinnn",
+  "version": "1.0.0",
+  "description": "Bu bir deneme ve başlangıc denemesidir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "text1": "echo 'Merhaba dünya...'"
+  },
+  "keywords": [
+    "deneme",
+    "pakett"
+  ],
+  "author": "hüseyinn aydinnn",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.9.2",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/Huseyinaydin48447/deneme1.git"
+  }
+}
